@@ -1,6 +1,11 @@
-# Udemy's course "Introduction to Financial Modeling for Beginners" Case Study
+# Financial Modeling Case Study
+### This is a project from the Udemy course "Introduction to Financial Modeling for Beginners"
 
-The Case Study is involving our client, Lucy, which is is the lemonade stand owner in her neighborhood.
+This Case Study is involving our client, Lucy, which is is the lemonade stand owner in her neighborhood.
+
+
+![image](https://user-images.githubusercontent.com/74104562/212349474-80ede613-cfe4-4260-8246-a51d0d777454.png)
+
 
 She is done quite well and wants to know what can I expect in terms of sales this coming year.
 
